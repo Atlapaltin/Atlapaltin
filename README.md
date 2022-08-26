@@ -1,19 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atlapaltin&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-    <a href="https://t.me/Ksu_Dokkr">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="600" height="300"/>
-</div>
+  </h1> </div>
+
+---
 
 ### :woman_technologist: Обо мне:
 Я начинающий андроид-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" height="40"/>
@@ -22,6 +15,7 @@
 - :telescope: Успешно изучила основы Java и теперь постигаю магию Kotlin. Активно изучаю разработку мобильных приложений под Android. Владею Intellij IDEA, Android Studio и Git. Свободно говорю и пишу на английском (в том числе техническом). Имею базовые знания в Markdown. Опыт в программировании в учебных проектах и тестовых заданиях.
 - :zap: Все свое свободное время посвящаю изучению Kotlin и Китайского языка.
 - :mailbox:Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-Ksu_Dokkr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ksu_Dokkr)
+
 ---
 
 ### :woman_technologist: Мое образование:
@@ -34,10 +28,11 @@
 
 ### :hammer_and_wrench: Мои языки программирования :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
 </div>
+
 ---
 
 ### :fire: Моя статистика :
