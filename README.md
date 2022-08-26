@@ -20,10 +20,10 @@
 - :seedling: Изучаю андроид-разаботку в Нетологии и работаю техническим писателем в IT-компании.
 - :telescope: Успешно изучила основы Java и теперь постигаю магию Kotlin. Активно изучаю разработку мобильных приложений под Android. Владею Intellij IDEA, Android Studio и Git. Свободно говорю и пишу на английском (в том числе техническом). Имею базовые знания в Markdown. Опыт в программировании в учебных проектах и тестовых заданиях.
 - :zap: Все свое свободное время посвящаю изучению Kotlin и Китайского языка.
-- :mailbox:Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-atlapaltin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ksu_Dokkr)
+- :mailbox:Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-Ksu_Dokkr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ksu_Dokkr)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мои языки программирования :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -31,6 +31,6 @@
 </div>
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atlapaltin&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlapaltin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
