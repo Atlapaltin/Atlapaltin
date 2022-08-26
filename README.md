@@ -7,20 +7,29 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-    <a href="your-telegram-URL">
+    <a href="https://t.me/Ksu_Dokkr">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :woman_technologist: Обо мне:
-Я начинающий андроид-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30">
+Я начинающий андроид-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" height="40"/>
 
 - :seedling: Изучаю андроид-разаботку в Нетологии и работаю техническим писателем в IT-компании.
 - :telescope: Успешно изучила основы Java и теперь постигаю магию Kotlin. Активно изучаю разработку мобильных приложений под Android. Владею Intellij IDEA, Android Studio и Git. Свободно говорю и пишу на английском (в том числе техническом). Имею базовые знания в Markdown. Опыт в программировании в учебных проектах и тестовых заданиях.
 - :zap: Все свое свободное время посвящаю изучению Kotlin и Китайского языка.
 - :mailbox:Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-Ksu_Dokkr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ksu_Dokkr)
+---
+
+### :woman_technologist: Мое образование:
+
+- :telescope: с 2021 года по настоящее время - Университет "Нетология", "Android - разработчик".
+- :telescope: 2017 г. - Казанский национальный исследовательский технологический университет (Инженерный химико-технологический институт), Магистратура, Материаловедение и технология новых материалов.
+- :telescope: 2008 г. - Нижегородский государственный лингвистический университет им. Н.А. Добролюбова, Специалитет, Лингвист. Переводчик.
+ 
 ---
 
 ### :hammer_and_wrench: Мои языки программирования :
